@@ -8,7 +8,7 @@
 **
 ** Copyright (C) 2004 ~ 2007 Feynman Software.
 **
-** License: GPL
+** License: GPL test
 */
 
 #include <minigui/common.h>
